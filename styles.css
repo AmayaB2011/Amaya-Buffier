@@ -1,0 +1,44 @@
+body{
+    background-color:#bffff0;
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;       
+    border-color: #92f8e0;   
+    border-width: 5px;
+    margin-bottom: 0;  
+}
+.background{
+    width: 100%;
+}
+.top-container-writing{
+    position: absolute;
+    color: #ffffff;
+    right: 35%;
+    top: 25%;
+}
+.skill.imgs{
+    border-radius: 100%;
+    float: left;
+}
+.p-1{
+    size: 2.5rem;
+}
+p{
+    line-height: 2;
+}
+h2{
+    color: #ffbbbb;
+}
+h3{
+    color: #ffbbbb;
+}
